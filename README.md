@@ -7,11 +7,10 @@ Python Developer
 Australian Skid who programs MultiTools and random hacking tools.
 
 * 🌍  I'm based in Australia
-* 🖥️  See my portfolio at [My Discord Server](http://discord.gg/WdaZy28xkB)
-* ✉️  You can contact me at [Reaper#1234](mailto:Reaper#1234)
-* 🚀  I'm currently working on [Reaper Discord Tool](http://discord.gg/WdaZy28xkB)
+* ✉️  You can contact me at [Reaper#1234](mailto:TechBeams#3818)
+* 🚀  I'm currently working on [Reaper Discord Tool]
 * 🤝  I'm open to collaborating on a Discord Token Logger
-* ⚡  Discord: Reaper#1234
+* ⚡  Discord: TechBeams#3818
 
 ### Skills
 
