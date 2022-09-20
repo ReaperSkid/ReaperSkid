@@ -7,7 +7,7 @@ Python Developer
 Australian Skid who programs MultiTools and random hacking tools.
 
 * 🌍  I'm based in Australia
-* ✉️  You can contact me at [dsc.gg/solartool](mailto:TechBeams#3818)
+* ✉️  You can contact me at [TechBeams#3818](mailto:TechBeams#3818)
 * 🚀  I'm currently working on [Solar Tool]
 * 🤝  I'm open to collaborating on a Discord Token Logger
 * ⚡  Discord: https://dsc.gg/solartool
